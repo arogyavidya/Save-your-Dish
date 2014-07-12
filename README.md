@@ -17,3 +17,5 @@ In future the below items will be added one by one
 - Grocery master list builder and purchase planner
 - Kitchen safety tips.
 
+Visit the link to experience the application 
+http://arogyavidya.github.io/Save-your-Dish/app.html
